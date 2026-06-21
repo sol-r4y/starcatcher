@@ -1,5 +1,4 @@
 # StarCatcher（揽星）
-<img width="620" height="622" alt="图片1" src="https://github.com/user-attachments/assets/2a6a83a7-275c-43c7-bb5e-faf67673dc15" />
 
 本来做来收藏网页的，结果被我用来做面试的备忘录了 0.0
 
@@ -8,6 +7,8 @@
 StarCatcher 是一款开源的智能书签与个人知识库工具，帮你统一管理零散的网页、笔记、复盘与备忘内容。
 
 > 目前仅支持 Windows 系统。
+
+
 
 ---
 
